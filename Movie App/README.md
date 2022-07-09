@@ -1,6 +1,5 @@
-# CSS DEMO
+# CSS DEMO APPS
 
-## Bu proje yeni başlayan kişiler için başlangıç seviye css egzersizleri içermektedir.
+![Demos](https://github.com/furkancanzirek/CSS-DEMOS/blob/main/Movie%20App/movie.png)
 
-## Codepen: https://codepen.io/furkancanzirek/pen/NWwxygv
-
+## All projects in this repository contain beginner level css exercises for beginners.
